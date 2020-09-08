@@ -1,14 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "19d605365d79058e27bc",
-    "url": "/css/app.f03171c4.css"
+    "revision": "882bf1bad721ab4b9817",
+    "url": "/css/app.14d74206.css"
   },
   {
     "revision": "d6671c49b744c4dee9505527c4e3e744",
     "url": "/css/app.min.css"
   },
   {
-    "revision": "426ed9f0d9998fd17a99",
+    "revision": "8e561e0f927cdb3f6eaa",
     "url": "/css/chunk-vendors.7e656686.css"
   },
   {
@@ -840,6 +840,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/knaeckebrot.07a6367c.png"
   },
   {
+    "revision": "f6f0c9fba23060fa4bf2f774ed97bc2c",
+    "url": "/img/knife.f6f0c9fb.png"
+  },
+  {
     "revision": "62dbba22d91196c9ebe70d0d23f67a2c",
     "url": "/img/knoblauch.62dbba22.png"
   },
@@ -984,24 +988,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/wassermelone.64cf7668.png"
   },
   {
+    "revision": "cc41e74907b5256ff280a235bb521e36",
+    "url": "/img/whisk.cc41e749.png"
+  },
+  {
     "revision": "0fac35b1bd64dfe13d2c6854b24b1960",
     "url": "/img/zucker.0fac35b1.png"
   },
   {
-    "revision": "d9c459e42ce4c575a63c4f3dca1c8bd1",
+    "revision": "3855f452bde3bb163389695049fee9aa",
     "url": "/index.html"
   },
   {
-    "revision": "19d605365d79058e27bc",
-    "url": "/js/app.66ce02de.js"
+    "revision": "882bf1bad721ab4b9817",
+    "url": "/js/app.aaf510d2.js"
   },
   {
     "revision": "b4834e3fd40f5b7a76f86d3f84fdfa5a",
     "url": "/js/app.min.js"
   },
   {
-    "revision": "426ed9f0d9998fd17a99",
-    "url": "/js/chunk-vendors.95afea08.js"
+    "revision": "8e561e0f927cdb3f6eaa",
+    "url": "/js/chunk-vendors.2175df13.js"
   },
   {
     "revision": "33afab7cf4364bfafed813dbc796af09",
