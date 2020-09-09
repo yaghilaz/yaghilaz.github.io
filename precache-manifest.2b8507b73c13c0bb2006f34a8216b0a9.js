@@ -1,14 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3fda6f42bb11ff4722e2",
-    "url": "/css/app.1e272388.css"
+    "revision": "1703aad5034e06b121e0",
+    "url": "/css/app.5412a81d.css"
   },
   {
     "revision": "d6671c49b744c4dee9505527c4e3e744",
     "url": "/css/app.min.css"
   },
   {
-    "revision": "55e536687fa236ad89f4",
+    "revision": "72257030b39a8497db3e",
     "url": "/css/chunk-vendors.7e656686.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/fonts.css"
   },
   {
-    "revision": "ac80e712ae5b83a91859a1cfa2d9c284",
+    "revision": "703143a4c06958c38bc572e6af8d4837",
     "url": "/css/main.css"
   },
   {
@@ -824,14 +824,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/products/letters/t.png"
   },
   {
-    "revision": "3a2f502b25d526bc42601e6eb44baf70",
-    "url": "/img/products/letters/test.jpg"
-  },
-  {
-    "revision": "3a2f502b25d526bc42601e6eb44baf70",
-    "url": "/img/products/letters/test.png"
-  },
-  {
     "revision": "e5e0eebb419e6c653698411fc188c06d",
     "url": "/img/products/letters/u.png"
   },
@@ -1364,23 +1356,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/whisk.cc41e749.png"
   },
   {
-    "revision": "0fed6e37b37943cf57a694e37f809e42",
+    "revision": "ec5f701be22ddc3fbf05a3118b1881ab",
     "url": "/index.html"
   },
   {
-    "revision": "3fda6f42bb11ff4722e2",
-    "url": "/js/app.c2760daf.js"
+    "revision": "1703aad5034e06b121e0",
+    "url": "/js/app.93a07b4d.js"
   },
   {
     "revision": "b4834e3fd40f5b7a76f86d3f84fdfa5a",
     "url": "/js/app.min.js"
   },
   {
-    "revision": "55e536687fa236ad89f4",
-    "url": "/js/chunk-vendors.245d5a7a.js"
+    "revision": "72257030b39a8497db3e",
+    "url": "/js/chunk-vendors.7dd9a389.js"
   },
   {
-    "revision": "33afab7cf4364bfafed813dbc796af09",
+    "revision": "360c3ceaf69c027f7a6a1f5d1a23e9af",
     "url": "/manifest.json"
   },
   {
