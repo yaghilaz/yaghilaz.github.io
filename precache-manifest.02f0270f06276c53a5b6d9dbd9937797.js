@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ce6b82fc9c956754a58",
+    "revision": "40ef9d079f7f09c7b310",
     "url": "/css/app.7acdaad0.css"
   },
   {
@@ -1356,12 +1356,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/whisk.cc41e749.png"
   },
   {
-    "revision": "b2d26be984580cb7a58268696f041dae",
+    "revision": "af579866d008f5bde1fea5b7170c8b0c",
     "url": "/index.html"
   },
   {
-    "revision": "4ce6b82fc9c956754a58",
-    "url": "/js/app.46a9d620.js"
+    "revision": "40ef9d079f7f09c7b310",
+    "url": "/js/app.63081a7d.js"
   },
   {
     "revision": "b4834e3fd40f5b7a76f86d3f84fdfa5a",
