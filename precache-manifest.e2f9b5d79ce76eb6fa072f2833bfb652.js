@@ -1128,6 +1128,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/recipes/26edab74a39eac2af7ac7bd7141b30b1.jpg"
   },
   {
+    "revision": "550c36a01a21b765736671eec2cde38f",
+    "url": "/img/recipes/275a967a527ef7d3279ac140323c569a.jpg"
+  },
+  {
     "revision": "113d6899ccc0680fc02d81c2f1c498af",
     "url": "/img/recipes/28fd0fbd334515deb8a8291b71941c9e.jpg"
   },
@@ -1260,6 +1264,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/recipes/a71d83915f8839e1da511021db1b3aa0.jpg"
   },
   {
+    "revision": "60445096f2f39a35b0e7844b71f5a1bf",
+    "url": "/img/recipes/a7228a7d885a3f09046ee2a8fb2e3252.jpg"
+  },
+  {
     "revision": "dff0c99fe0206af11a4ecd7b07eefdf5",
     "url": "/img/recipes/a9ffae5ecb59ceb16e0ad61f8ce6f15a.jpg"
   },
@@ -1342,6 +1350,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "75cbd5457f20a9f659910478243f7b92",
     "url": "/img/recipes/faeac4e1eef307c2ab7b0a3821e6c667.jpg"
+  },
+  {
+    "revision": "8882893563f8726c178468ba436779bb",
+    "url": "/img/recipes/fb8490a9504a36c212b5a1be7b4ca7e4.jpg"
   },
   {
     "revision": "a5da3da25fc39770e2b4ae7a14758190",
