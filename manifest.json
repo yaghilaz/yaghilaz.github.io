@@ -1,1 +1,1 @@
-{"name":"Yaghilaz","short_name":"Yaghilaz","theme_color":"#fff","icons":[{"src":"./img/icons/android-chrome-144x144.png","sizes":"144x144","type":"image/png"}],"start_url":"./index.html","display":"standalone","background_color":"#ffffff"}
+{"name":"Yaghilaz","short_name":"Yaghilaz","theme_color":"#ffffff","icons":[{"src":"./img/icons/android-chrome-144x144.png","sizes":"144x144","type":"image/png"}],"start_url":"./index.html","display":"standalone","background_color":"#ffffff"}
