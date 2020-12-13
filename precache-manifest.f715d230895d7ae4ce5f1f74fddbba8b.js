@@ -1,14 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6f6d9053d9b6fc9e81b7",
-    "url": "/css/app.4dc20a4e.css"
+    "revision": "414466fde6ed8cdeb61f",
+    "url": "/css/app.4e036bd1.css"
   },
   {
     "revision": "d6671c49b744c4dee9505527c4e3e744",
     "url": "/css/app.min.css"
   },
   {
-    "revision": "2f032e991d18fbf2f2ca",
+    "revision": "fbd547e99062a8323a1b",
     "url": "/css/chunk-vendors.7e656686.css"
   },
   {
@@ -1268,6 +1268,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/recipes/a7228a7d885a3f09046ee2a8fb2e3252.jpg"
   },
   {
+    "revision": "a0eda08bf661940e1be76c71d8381fab",
+    "url": "/img/recipes/a74b59c0f4fd1cc6e7ff3acb630e455c.jpg"
+  },
+  {
     "revision": "dff0c99fe0206af11a4ecd7b07eefdf5",
     "url": "/img/recipes/a9ffae5ecb59ceb16e0ad61f8ce6f15a.jpg"
   },
@@ -1286,6 +1290,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b34a82c40fdb82913b361770222195cb",
     "url": "/img/recipes/bff82d18862ce94df14bdee55295f812.jpg"
+  },
+  {
+    "revision": "a0eda08bf661940e1be76c71d8381fab",
+    "url": "/img/recipes/c4258e0f536604c99f79545e930d5a22.jpg"
   },
   {
     "revision": "a1b9bac7f0a2638fffbfd838aa3eed85",
@@ -1368,20 +1376,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/whisk.cc41e749.png"
   },
   {
-    "revision": "581db886a93315182f0766ddb43ad686",
+    "revision": "f773a8747c1c1f93e58ac0693e1101d5",
     "url": "/index.html"
   },
   {
-    "revision": "6f6d9053d9b6fc9e81b7",
-    "url": "/js/app.b2684b33.js"
+    "revision": "414466fde6ed8cdeb61f",
+    "url": "/js/app.ab7ba074.js"
   },
   {
     "revision": "b4834e3fd40f5b7a76f86d3f84fdfa5a",
     "url": "/js/app.min.js"
   },
   {
-    "revision": "2f032e991d18fbf2f2ca",
-    "url": "/js/chunk-vendors.9fa824d4.js"
+    "revision": "fbd547e99062a8323a1b",
+    "url": "/js/chunk-vendors.728bd82b.js"
   },
   {
     "revision": "c8b0c0e06d0cf8dffa931a5b04ca506b",

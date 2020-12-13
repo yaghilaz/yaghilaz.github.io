@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.8e737412d5430fb15197392d6a1b4db3.js"
+  "/precache-manifest.f715d230895d7ae4ce5f1f74fddbba8b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "yaghilaz-app"});
