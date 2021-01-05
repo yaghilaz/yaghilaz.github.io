@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "414466fde6ed8cdeb61f",
+    "revision": "de09deadeaa5de0803f4",
     "url": "/css/app.4e036bd1.css"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/app.min.css"
   },
   {
-    "revision": "fbd547e99062a8323a1b",
+    "revision": "934ab3bb958a4694f967",
     "url": "/css/chunk-vendors.7e656686.css"
   },
   {
@@ -588,6 +588,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/products/butter.png"
   },
   {
+    "revision": "ae875e86d3fd238aaf4c22e3e06d6b1e",
+    "url": "/img/products/couches.png"
+  },
+  {
     "revision": "8c2ae5bc8476b7f5d200375646ee8cf1",
     "url": "/img/products/creme_fraiche.png"
   },
@@ -850,6 +854,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "377011f1a304e8e706d6c66cc623a1b8",
     "url": "/img/products/limette.png"
+  },
+  {
+    "revision": "7baaa050a65b8c5c8435761ba997910d",
+    "url": "/img/products/lingettes.png"
   },
   {
     "revision": "f3bc8707646586ad5d3521d2edf9edd1",
@@ -1376,20 +1384,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/whisk.cc41e749.png"
   },
   {
-    "revision": "f773a8747c1c1f93e58ac0693e1101d5",
+    "revision": "d2c124f4b7ce4c39e5fc2aaa18fa72cf",
     "url": "/index.html"
   },
   {
-    "revision": "414466fde6ed8cdeb61f",
-    "url": "/js/app.ab7ba074.js"
+    "revision": "de09deadeaa5de0803f4",
+    "url": "/js/app.1bcdcc56.js"
   },
   {
     "revision": "b4834e3fd40f5b7a76f86d3f84fdfa5a",
     "url": "/js/app.min.js"
   },
   {
-    "revision": "fbd547e99062a8323a1b",
-    "url": "/js/chunk-vendors.728bd82b.js"
+    "revision": "934ab3bb958a4694f967",
+    "url": "/js/chunk-vendors.45d452a5.js"
   },
   {
     "revision": "c8b0c0e06d0cf8dffa931a5b04ca506b",
