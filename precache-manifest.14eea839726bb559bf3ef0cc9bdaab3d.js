@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c5d3b087586186f18fa3",
+    "revision": "ca313340df54a1703335",
     "url": "/css/app.4e036bd1.css"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/app.min.css"
   },
   {
-    "revision": "520b47b7964bf676f90f",
+    "revision": "f45583ba4e878971bb63",
     "url": "/css/chunk-vendors.7e656686.css"
   },
   {
@@ -1168,12 +1168,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/recipes/2f1ee6251bc23a0f35118b54170177cb.jpg"
   },
   {
+    "revision": "7b26f28cf12e0975fa0fae0b67efe853",
+    "url": "/img/recipes/31b7b72368bd13d8bfca653ccbae5693.jpg"
+  },
+  {
     "revision": "c5aa8cb9189b92d079fbe70b0d450099",
     "url": "/img/recipes/31c8f1568c7dd69a946aaaa062bdbe17.jpg"
   },
   {
     "revision": "8e4656df104698ae261fd8c1226576d2",
     "url": "/img/recipes/3292b1a0253b86acf94c34b561ea01a5.jpg"
+  },
+  {
+    "revision": "9d0d13f1ea91ac6a6143dd83321b6707",
+    "url": "/img/recipes/38b18881fc8d864a177afe3864c10aba.jpg"
   },
   {
     "revision": "380d30ba4688d0df8963029b7a0be1e6",
@@ -1404,20 +1412,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/whisk.cc41e749.png"
   },
   {
-    "revision": "58b82d7deac783e4d021b864da4a1c93",
+    "revision": "fc05bb8cbd1a4c9bdb9a506896c03327",
     "url": "/index.html"
   },
   {
-    "revision": "c5d3b087586186f18fa3",
-    "url": "/js/app.2fe791f1.js"
+    "revision": "ca313340df54a1703335",
+    "url": "/js/app.e54ccd65.js"
   },
   {
     "revision": "b4834e3fd40f5b7a76f86d3f84fdfa5a",
     "url": "/js/app.min.js"
   },
   {
-    "revision": "520b47b7964bf676f90f",
-    "url": "/js/chunk-vendors.2ffbfe2b.js"
+    "revision": "f45583ba4e878971bb63",
+    "url": "/js/chunk-vendors.8e7768ed.js"
   },
   {
     "revision": "c8b0c0e06d0cf8dffa931a5b04ca506b",
